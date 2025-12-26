@@ -1,0 +1,14 @@
+{
+  "name": "react-flow",
+  "description": "Renders interactive flow diagrams, flowcharts, and node-based visualizations",
+  "componentName": "TamboReactFlow",
+  "dependencies": ["class-variance-authority", "@tambo-ai/react"],
+  "devDependencies": [],
+  "requires": [],
+  "files": [
+    {
+      "name": "react-flow.tsx",
+      "content": "src/registry/react-flow/react-flow.tsx"
+    }
+  ]
+}
