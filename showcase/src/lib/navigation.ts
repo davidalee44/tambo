@@ -91,6 +91,11 @@ export const navigation: NavigationItem[] = [
             title: "Map",
             href: "/components/map",
           },
+          {
+            title: "React Flow",
+            href: "/components/react-flow",
+            isNew: true,
+          },
         ],
       },
       {
